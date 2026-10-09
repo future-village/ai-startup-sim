@@ -12,3 +12,5 @@
 判斷與拍板：隊長；草稿與查證：主腦
 
 字型：英數字使用 Geist（SIL Open Font License 1.1，授權全文見 FONT-LICENSE-Geist-OFL.txt）。
+
+給 AI：遊戲規則與網址參數見 llms.txt，用程式直接玩一局的方法見 AGENTS.md。
