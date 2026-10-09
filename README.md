@@ -10,3 +10,5 @@
 本遊戲人物、公司、事件均為虛構創作。
 
 判斷與拍板：隊長；草稿與查證：主腦
+
+字型：英數字使用 Geist（SIL Open Font License 1.1，授權全文見 FONT-LICENSE-Geist-OFL.txt）。
